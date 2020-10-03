@@ -1,1 +1,1 @@
-client_script "gunshot.lua"
+client_script "client/gunshot.lua"
